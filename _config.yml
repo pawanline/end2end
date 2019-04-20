@@ -21,13 +21,13 @@ sass:
 title: end2end
 description: "A free Jekyll theme for download"
 keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: http://nandomoreira.me
+url: http://pawankumar.cf
 baseurl: "/end2end"
 
 google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/end2end
-disqus_shortname: "nandothemes"
-disqus_site_shortname: "nandothemes"
+repo: http://github.com/pawanline/end2end
+disqus_shortname: ""
+disqus_site_shortname: ""
 
 # Author settings
 author:
