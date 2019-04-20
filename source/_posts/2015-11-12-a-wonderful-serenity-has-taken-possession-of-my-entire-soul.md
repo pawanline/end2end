@@ -2,6 +2,7 @@
 layout: post
 title: "A wonderful serenity has taken possession of my entire soul"
 description: "I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+image: /images/author.jpg
 date: 2015-11-12 16:39:18
 comments: true
 description: "A wonderful serenity has taken possession of my entire soul"
