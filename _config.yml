@@ -46,9 +46,7 @@ author:
 navbar:
   - slug: about
     title: About
-  - slug: icons
-    title: Icons
   - slug: blog
-    title: Blog
+    title: Portfolio
 
 exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
