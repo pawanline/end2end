@@ -22,7 +22,7 @@ title: end2end
 description: "A free Jekyll theme for download"
 keywords: "Jekyll, theme, free, download, SEO, blog, web"
 url: http://pawankumar.cf
-baseurl: "/end2end"
+baseurl: ""
 
 google_analytics: UA-52446115-1
 repo: http://github.com/pawanline/end2end
@@ -36,8 +36,8 @@ author:
   bio: "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
   thumb: /images/author.jpg
   email: nandomoreira.me@gmail.com
-  url: https://nandomoreira.me/
-  github: https://github.com/nandomoreirame
+  url: https://pawankumar.cf/
+  github: https://github.com/pawanline
   twitter: https://twitter.com/umdevux
   facebook: https://facebook.com/umdevux
   linkedin: https://linkedin.com/in/nandomoreirame
