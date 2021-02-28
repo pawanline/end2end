@@ -5,7 +5,7 @@ date: 2019-04-20 16:44:24
 comments: false
 description: ""
 link: ""
-image: /images/swift.jpg
+image: /images/swift.png
 keywords: ""
 category: welcome
 tags:

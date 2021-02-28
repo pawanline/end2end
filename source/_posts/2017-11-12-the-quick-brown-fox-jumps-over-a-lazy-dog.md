@@ -5,7 +5,7 @@ date: 2019-04-20 16:46:24
 comments: false
 description: ""
 link: "https://apps.apple.com/us/app/pictogether/id1439156451"
-image: /images/swift.jpg
+image: /images/swift.png
 keywords: ""
 category: welcome
 tags:

@@ -5,7 +5,7 @@ date: 2020-08-01 10:05:24
 comments: false
 description: ""
 link: "https://apps.apple.com/us/app/manilam/id1482536055"
-image: /images/swift.jpg
+image: /images/swift.png
 keywords: ""
 category: welcome
 tags:
